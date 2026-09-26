@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">354c40b7-3dd7-435a-aad1-51d4db749599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">354c40b7-3dd7-435a-aad1-51d4db749599</dc:identifier>
+        <dc:title>Entrevista de System Design: um guia por dentro, segunda edição — Guia passo a passo, dicas e 15 questões de entrevista de System Design com soluções detalhadas</dc:title>
+        <dc:creator opf:file-as="Xu, Alex" opf:role="aut">Alex Xu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-09T18:30:00+00:00</dc:date>
+        <dc:language>pt-BR</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>
